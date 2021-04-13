@@ -43,7 +43,6 @@ public class CallCenterAPIController {
         }
     }
 
-
     @RequestMapping(method = RequestMethod.POST)
     public ResponseEntity<?> AddNewAgent(@RequestBody Agent newAg){
         try {
