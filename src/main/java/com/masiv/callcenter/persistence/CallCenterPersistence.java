@@ -6,7 +6,6 @@ import com.masiv.callcenter.persistence.exceptions.CallCenterNotFoundException;
 import com.masiv.callcenter.persistence.exceptions.CallCenterPersistenceException;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public interface CallCenterPersistence{
 

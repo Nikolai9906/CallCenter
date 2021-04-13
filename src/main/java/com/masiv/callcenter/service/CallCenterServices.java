@@ -1,7 +1,6 @@
 package com.masiv.callcenter.service;
 
 import com.masiv.callcenter.model.Agent;
-import com.masiv.callcenter.persistence.exceptions.CallCenterException;
 import com.masiv.callcenter.persistence.exceptions.CallCenterNotFoundException;
 import com.masiv.callcenter.persistence.exceptions.CallCenterPersistenceException;
 
