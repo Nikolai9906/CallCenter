@@ -7,10 +7,13 @@
 * [Git](https://git-scm.com) - Version Control System
 * [Postman](https://www.postman.com) - API Client Tester
 * [CircleCi](https://circleci.com) - Continuos Integration
+* [Codacy](https://codacy.com) - Analysis report
 
 ## Continuos Integration - CircleCi :white_check_mark:
 [![CircleCi](https://circleci.com/gh/Nikolai9906/CallCenter.svg?style=svg)](https://app.circleci.com/pipelines/github/Nikolai9906/CallCenter)
 
+## Analysis report - Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7717e977ed66457ebe481f908f952f1a)](https://www.codacy.com/gh/Nikolai9906/CallCenter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nikolai9906/CallCenter&amp;utm_campaign=Badge_Grade)
 
 ## Endpoints:
 
@@ -24,7 +27,7 @@ The endpoints of the API are the following:
 - POST request:
   - /agents: Create a new agent
 
-###*Make the requests to localhost:8080*
+### *Make the requests to localhost:8080*
 
 ## Add bet examples
 ### Call Center Agent body
